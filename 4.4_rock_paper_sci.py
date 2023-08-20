@@ -1,4 +1,4 @@
-# Go to https://replit.com/@appbrewery/rock-paper-scissors-start?v=1
+
 rock = '''
     _______
 ---'   ____)
