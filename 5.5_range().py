@@ -1,4 +1,4 @@
-#Write your code below this row 👇
+
 
 sum = 0
 
