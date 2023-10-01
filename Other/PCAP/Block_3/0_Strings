@@ -1,0 +1,9 @@
+3. Strings
+    1. ASCII, UNICODE, UTF-8, codepoints, and escape sequences;
+    2. ord(), chr(), literals;
+    3. indexing, slicing, and immutability;
+    4. iterating through
+    5. concatenating, multiplying, comparing(against strings and numbers)
+    6. in, not in
+    7. isxxx(), .join(), .split()
+    8. .sort(), sorted(), .index(), .find(), .rfind()

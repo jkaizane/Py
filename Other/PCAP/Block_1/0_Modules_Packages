@@ -1,0 +1,12 @@
+1. Modules and Packages
+    1. import variants; advanced qualifying for nested Modules
+
+    2. dir(); the sys.path variable
+
+    3. math: ceil(), floor(), trunc(), factorial(), hypot(), sqrt(); random(), seed(), choice(), sample()
+
+    4. platform: platform(), machine(), processor(), system(), version(), python_implementation(), python_version_tuple()
+
+    5. rationale (why do we need modules?), __pychache__, __name__, public variables, __init__.python_implementation
+
+    6. searching for/through modules/packages; nested/packages vs. directory tree

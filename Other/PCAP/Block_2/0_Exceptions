@@ -1,0 +1,6 @@
+2. Exceptions
+    1. except, finally, except:-except:-else;, except(e1, e2)
+    2. the hierarchy of exceptions;
+    3. raise, raise ex, assert
+    4. event classes, except E as e, the arg property;
+    5. self-defined exceptions; defining and using user-created exceptions
