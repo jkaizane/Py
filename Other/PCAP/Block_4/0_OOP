@@ -1,0 +1,12 @@
+4. Object-Orientated Programming
+    1. Ideas: class, object property, method, encapsulation, inheritance, grammar vs class, superclass, subclass
+    2. instance vs class variables: declaring, initialising
+    3. __dict__ property (objects vs classes)
+    4. private components (instance vs classes), name mangling
+    5. methods: declaring, using; the self parameter
+    6. introspection: hasattr()(objects vs classes), __name__, __module__, __bases__ properties
+    7. inheritance: single, multiple, isinstance(), overriding, not is and is operators
+    8. constructors: declaring and invoking
+    9. polymorphism
+    10. the __str__()method
+    11. multiple inheritance, diamonds
