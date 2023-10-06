@@ -1,0 +1,7 @@
+5. Miscellaneous
+1. list comprehensions: the if operator, using list comprehensions;
+2. lambdas: defining and using lambdas as arguments; map(), filter()
+3. closuers: meaning, defining, and using closuers;
+4. I/O Operations: I/O modes, predefined steams, handles; text/binary modes;
+5. open(), errno and its values; close()
+6. .read(), .write(), .readline(), readlines(), and bytearray()
