@@ -1,6 +1,12 @@
 class MoneyMachine:
+<<<<<<< HEAD
     CURRENCY = "$"
     
+=======
+
+    CURRENCY = "$"
+
+>>>>>>> 22ee79565a78d20dbedd70757df181459e695126
     COIN_VALUES = {
         "quarters": 0.25,
         "dimes": 0.10,
@@ -23,7 +29,11 @@ class MoneyMachine:
             self.money_received += int(input(f"How many {coin}?: ")) * self.COIN_VALUES[coin]
         return self.money_received
 
+<<<<<<< HEAD
     def make_payment(self,cost):
+=======
+    def make_payment(self, cost):
+>>>>>>> 22ee79565a78d20dbedd70757df181459e695126
         """Returns True when payment is accepted, or False if insufficient."""
         self.process_coins()
         if self.money_received >= cost:
@@ -35,4 +45,9 @@ class MoneyMachine:
         else:
             print("Sorry that's not enough money. Money refunded.")
             self.money_received = 0
+<<<<<<< HEAD
             return False 
+=======
+            return False
+        
+>>>>>>> 22ee79565a78d20dbedd70757df181459e695126
